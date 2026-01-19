@@ -1,6 +1,6 @@
 # Task Management API
 
-Lightweight Flask-based task management API for demonstration and local development.
+Lightweight Flask-based task management API for demonstration.
 
 ## Features
 - User registration, login, logout (access + refresh token revoke)
