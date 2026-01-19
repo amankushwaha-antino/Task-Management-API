@@ -51,4 +51,4 @@ The API will be available at `http://127.0.0.1:5000`.
 - Use the `Authorization: Bearer <ACCESS_TOKEN>` header for protected routes.
 - Avoid trailing slashes when calling `/api/v1/tasks` endpoints (server routes configured without trailing slash).
 
-If you want, I can commit these files and run a quick sanity test. Which would you like next?
+
