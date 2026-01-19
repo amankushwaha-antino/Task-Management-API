@@ -3,10 +3,10 @@
 Lightweight Flask-based task management API for demonstration.
 
 ## Features
-- User registration, login, logout (access + refresh token revoke)
-- JWT authentication (access + refresh tokens)
+- User registration, login, logout
+- JWT authentication 
 - Create, read, update, delete tasks
-- Task stats and filtering
+- Task stats 
 
 ## Quick start
 
